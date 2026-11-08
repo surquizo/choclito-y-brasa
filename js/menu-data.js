@@ -4,12 +4,13 @@
  */
 window.RESTAURANT = { whatsapp: '593999880628' };
 window.MENU_ITEMS = [
-  { category: 'Asados', name: 'Chuleta Asada', description: 'Incluye ensalada, tostado, cuero y papa salteada.', price: '$4.00', image: 'assets/images/asado-completo.png' },
-  { category: 'Asados', name: 'Costilla Asada', description: 'Incluye ensalada, tostado, cuero y papa salteada.', price: '$5.50', image: 'assets/images/asado-completo.png' },
-  { category: 'Asados', name: 'Asado Mixto (Pollo + Chuleta)', description: 'Incluye ensalada, tostado, cuero y papa salteada.', price: '$9.00', image: 'assets/images/asado-completo.png' },
-  { category: 'Asados', name: 'Asado Mixto (Costilla + Pollo)', description: 'Incluye ensalada, tostado, cuero y papa salteada.', price: '$9.00', image: 'assets/images/asado-completo.png' },
-  { category: 'Asados', name: 'Asado Mixto (Costilla + Chuleta)', description: 'Incluye ensalada, tostado, cuero y papa salteada.', price: '$9.00', image: 'assets/images/asado-completo.png' },
-  { category: 'Asados', name: 'Asado Completo', description: 'Costilla + pollo + chuleta + chorizo. Incluye ensalada, tostado, cuero y papa salteada.', price: '$12.00', image: 'assets/images/asado-completo.png' },
+  { category: 'Asados', name: 'Chuleta Asada', description: 'Incluye ensalada, tostado, cuero y papa salteada.', price: '$5.00', image: 'assets/images/Chuleta-asada.png' },
+  { category: 'Asados', name: 'Costilla Asada', description: 'Incluye ensalada, tostado, cuero y papa salteada.', price: '$5.00', image: 'assets/images/Costilla-asada.png' },
+  { category: 'Asados', name: 'Pollo Asada', description: 'Incluye ensalada, tostado, cuero y papa salteada.', price: '$5.00', image: 'assets/images/Pollo-asado.png' }, 
+  { category: 'Asados', name: 'Asado Mixto (Costilla + Chuleta)', description: 'Incluye ensalada, tostado, cuero y papa salteada.', price: '$9.00', image: 'assets/images/Mixto-costilla-chuleta.png' },
+  { category: 'Asados', name: 'Asado Mixto (Pollo + Chuleta)', description: 'Incluye ensalada, tostado, cuero y papa salteada.', price: '$9.00' },
+  { category: 'Asados', name: 'Asado Mixto (Costilla + Pollo)', description: 'Incluye ensalada, tostado, cuero y papa salteada.', price: '$9.00' },
+  { category: 'Asados', name: 'Asado Completo', description: 'Costilla + pollo + chuleta + chorizo. Incluye ensalada, tostado, cuero y papa salteada.', price: '$12.00' },
   { category: 'Porciones', name: 'Ensalada', description: 'Lechuga, tomate, zanahoria, col morada y nuestra vinagreta especial.', price: '$0.75' },
   { category: 'Porciones', name: 'Tostado', price: '$1.25' },
   { category: 'Porciones', name: 'Queso manaba rallado', price: '$1.50' }, 

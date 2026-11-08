@@ -11,5 +11,5 @@ window.PICADA_MENU = {
     { name: 'Picada Mix', price: '$4.50' },
     { name: 'Picada Full', price: '$5.00' }
   ],
-  image: 'assets/images/picada-papita.png'
+  image: 'assets/images/Picadas.png'
 };
